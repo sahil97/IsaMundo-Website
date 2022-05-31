@@ -1,0 +1,113 @@
+.navbar{
+    padding-top: 2em;
+    padding-bottom: 1.75em;
+    border-bottom: 1px solid #f0ece8;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+
+ul.navbar-nav{
+    line-height: 3em;
+}
+
+ul.navbar-nav li{
+    margin-left: 1em;
+}
+
+.largetBtn{
+    padding: 1em;
+    margin-left: 1em;
+}
+
+.donateBtn{
+    background-color: #bb8524;
+    color: black;
+    font-weight: bold;
+    margin-left: 2em;
+}
+
+.navbar .donateBtn{
+    padding: 1.25em;
+}
+
+
+.hero .col{
+    margin: 0;
+    padding: 0;
+}
+
+.hero .heroContent{
+    margin-left: 5em;
+}
+
+.hero .largetBtn:first-of-type{
+    margin-left: 0;
+}
+
+.heroHr{
+    margin-top: 16em;
+    width: 10em;
+    height: 4px !important;
+    border-radius: 10px;
+    color: #bb8524;
+    opacity: 0.5;
+}
+
+.heroTitle h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.heroTitle{
+    margin-bottom: 2em;
+}
+
+.heroImg{
+    height: 800px;
+    object-fit: cover;
+}
+
+
+/* ---------------------------- Stats -------------------------------- */
+
+.stats{
+    margin-top: -2em;
+    background-color: #fef1f4;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+
+.stats h3{
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.stats .highlightUnit{
+    font-size: 3.5rem;
+    color: #bb8524;
+    font-weight: 800;
+}
+
+
+/* ---------------------------- About Us -------------------------------- */
+
+.aboutUs{
+    background-color: #fef1f4;
+    padding-top: 3em;
+    padding-bottom: 6em ;
+}
+
+.aboutUsImage{
+    max-width: 75%;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 1px solid #eee;
+}
+
+.aboutUs .aboutUsContent h2{
+    margin-bottom: 1em;
+}
